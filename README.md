@@ -6,7 +6,7 @@
 
 While many applications can get away with a single managed object context, there will be times when one managed object context won't cut it. The setup I have come to appreciate looks like this.
 
-![Two Is Better Than One](https://cocoacasts.s3.amazonaws.com/building-the-perfect-core-data-stack/two-is-better-than-one/two-is-better-than-one.jpeg)
+![Two Is Better Than One](https://cocoacasts.s3.amazonaws.com/building-the-perfect-core-data-stack/two-is-better-than-one/two-is-better-than-one.jpg)
 
 The Core Data stack doesn't look overly complex. Right? Let me explain how it works and what the benefits are.
 
